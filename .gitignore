@@ -1,0 +1,4 @@
+# Ignore images and pdfs
+*.pdf
+*.png
+*.eps
